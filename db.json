@@ -1,13 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "nome": "Ut1", "eta": "28" },
+    { "id": 2, "nome": "Ut2", "eta": "35" },
+    { "id": 3, "nome": "Ut3", "eta": "20" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  
   "profile": {
     "name": "typicode"
   }
