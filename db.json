@@ -1,8 +1,5 @@
 {
-   "id": "1", 
+  "id": "1", 
   "nome": "Angela", 
-  "eta": "15",
-   "profile": {
-    "name": "typicode"
-  }
+  "eta": "15"
 }
